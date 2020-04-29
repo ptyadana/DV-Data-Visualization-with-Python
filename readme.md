@@ -6,6 +6,7 @@ Visualization of Countries's GDP, Life Expectancy comparison across continents, 
 ## Built with
 + [pandas](https://pandas.pydata.org/) - fast, powerful, flexible and easy to use open source data analysis and manipulation tool
 + [Matplotlib](https://matplotlib.org/) - a comprehensive library for creating static, animated, and interactive visualizations in Python
++ [NumPy](https://numpy.org/) - package for scientific computing with Python
 + [Jupyter Notebook](https://jupyter.org/) - Notebook system for data analysis
 
 
@@ -15,6 +16,8 @@ Visualization of Countries's GDP, Life Expectancy comparison across continents, 
 + Comparing Europe and America's Life Expectancy in 1997 Visualization - Histogram
 + GDP per Capita Growth comparison in US and China - Timeseries Line Chart
 + Population Growth comparison in US and China - Timeseries Line Chart
++ Realtionships between GDP per Capita and Life Expectancy - Scatter Plots
++ Realtionships between GDP and Life Expectancy in 2007 - Scatter Plots
 
 
 ## Acknowledgements
