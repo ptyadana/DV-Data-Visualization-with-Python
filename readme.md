@@ -2,6 +2,7 @@
 
 Data analysis and Data Visualization of Countries's GDP, Life Expectancy comparison across continents, GDP per Capita Relative Growth, Population Reative Growth comparison etc using Pandas, Matplotlib.
 
+![GDPperCapita_LifeExpectancy_Log](https://raw.githubusercontent.com/ptyadana/DV-Data-Visualization-with-Python/master/06.GDPperCapita_LifeExpectancy_Log.gif)
 
 ## Built with
 + [pandas](https://pandas.pydata.org/) - fast, powerful, flexible and easy to use open source data analysis and manipulation tool
