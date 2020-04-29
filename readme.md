@@ -1,6 +1,6 @@
 # Data Visualization with Python
 
-Visualization of Countries's GDP, Life Expectancy comparison across continents, GDP per Capita Relative Growth, Population Reative Growth comparison etc.
+Data analysis and Data Visualization of Countries's GDP, Life Expectancy comparison across continents, GDP per Capita Relative Growth, Population Reative Growth comparison etc using Pandas, Matplotlib.
 
 
 ## Built with
