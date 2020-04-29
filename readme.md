@@ -18,6 +18,8 @@ Visualization of Countries's GDP, Life Expectancy comparison across continents, 
 + Population Growth comparison in US and China - Timeseries Line Chart
 + Realtionships between GDP per Capita and Life Expectancy - Scatter Plots
 + Realtionships between GDP and Life Expectancy in 2007 - Scatter Plots
++ Comparison of 10 Most Populous Countries in 2007 - Bar Graphs
++ Comparison of GDP for 10 Most Populous Countries in 2007 - Bar Graphs
 
 
 ## Acknowledgements
