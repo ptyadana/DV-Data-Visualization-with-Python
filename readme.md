@@ -22,6 +22,7 @@ Visualization of Countries's GDP, Life Expectancy comparison across continents, 
 + Comparison of GDP for 10 Most Populous Countries in 2007 - Bar Graphs
 + Data Aggregration for Obama Approval Rates
 + Data Sampling for Obama Approval Rates
++ Richest Country on a per-person basic
 
 
 ## Acknowledgements
