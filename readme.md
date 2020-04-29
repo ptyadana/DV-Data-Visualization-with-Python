@@ -20,6 +20,8 @@ Visualization of Countries's GDP, Life Expectancy comparison across continents, 
 + Realtionships between GDP and Life Expectancy in 2007 - Scatter Plots
 + Comparison of 10 Most Populous Countries in 2007 - Bar Graphs
 + Comparison of GDP for 10 Most Populous Countries in 2007 - Bar Graphs
++ Data Aggregration for Obama Approval Rates
++ Data Sampling for Obama Approval Rates
 
 
 ## Acknowledgements
